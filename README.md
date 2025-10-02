@@ -27,15 +27,12 @@ Colaborativo, focado e com espírito de melhoria contínua.
 ---
 
 ## 🤝 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonralves/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvesandersonr)  
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=E94D5F)](mailto:contato.andersonralves@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonralves/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvesandersonr)  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=E94D5F)](mailto:contato.andersonralves@gmail.com)  
 
 ---
 
 ## 📊 GitHub Status
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=alvesandersonr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesandersonr&layout=compact&theme=radical)  
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=alvesandersonr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true)  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesandersonr&layout=compact&theme=radical)  
 
 ---
 
